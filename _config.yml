@@ -1,0 +1,30 @@
+
+# Site settings
+title: Unseenia
+email: unseenia@astartup.net
+description: > # this means to ignore newlines until "baseurl:"
+  The unseen world.
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# User setting
+owner: Kabuki Starship
+email: unseenia@astartup.net
+#facebook_username:
+#twitter_username:
+github_username: kabuki-starship
+address: Eugene, Oregon
+#  - line:
+#  - line:
+  # Feel free to add more lines here 
+#telephone: 
+copyright: 2019 Kabuki Starship™; all rights reserved.
+
+# API settings
+google_api_key:
+
+# Build settings
+gems: [jekyll-paginate]
+
+markdown: kramdown
+# toc_levels: 1..2
