@@ -8,7 +8,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner: Kabuki Starship
+owner: AStarship
 email: unseenia@astartup.net
 #facebook_username:
 #twitter_username:
@@ -18,7 +18,7 @@ address: Eugene, Oregon
 #  - line:
   # Feel free to add more lines here 
 #telephone: 
-copyright: 2019 Kabuki Starship™; all rights reserved.
+copyright: 2019 AStarship™; all rights reserved.
 
 # API settings
 google_api_key:
